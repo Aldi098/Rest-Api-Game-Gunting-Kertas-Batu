@@ -1,10 +1,5 @@
 # **Rest-Api-Game-Gunting-Kertas-Batu**
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/89829276?s=96&v=4" width="200" height="200"/>
-</p>
-<p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Welcome+To+Rest-Api-Game-Gunting-Kertas-Batu" alt="">
-</p>
+
 <p align="center">
 <a href="https://github.com/Xenzi-XN1"><img title="Creator" src="https://img.shields.io/badge/Creator-Xenzi-green.svg?style=for-the-badge&logo=github"></a>
 </p>
