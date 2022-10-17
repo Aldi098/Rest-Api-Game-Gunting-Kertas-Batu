@@ -36,7 +36,7 @@ import requests
 res = requests.post('http://127.0.0.1:5000/game/batu-gunting-kertas', data={"user":"nama mu","poin":"100","game":"batu"}).text
 print (res)
 ```
-# Contoh game yang saya buat, source code ada di folder Rest-Api-Game-Gunting-Kertas-Batu/src
+Contoh game yang saya buat, source code ada di folder Rest-Api-Game-Gunting-Kertas-Batu/src
 
 <img src="https://i.ibb.co/HqK1FbQ/IMG-20220902-154034.jpg" width="500">
 
