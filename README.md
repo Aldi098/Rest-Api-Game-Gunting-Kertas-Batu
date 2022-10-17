@@ -33,7 +33,7 @@ print (res)
 ```
 Contoh game yang saya buat, source code ada di folder Rest-Api-Game-Gunting-Kertas-Batu/src
 
-<img src="https://i.ibb.co/HqK1FbQ/IMG-20220902-154034.jpg" width="500">
+<img src="https://raw.githubusercontent.com/Aldi098/Rest-Api-Game-Gunting-Kertas-Batu/main/Screenshot_20221017_193734.jpg?token=GHSAT0AAAAAAB2ABIBTNV4YVG2DRJRLDHSOY2NKNRQ" width="500">
 
 # Deploy Heroku
 
